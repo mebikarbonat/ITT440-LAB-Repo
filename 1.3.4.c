@@ -7,4 +7,5 @@ scanf(“%d”, &age);
 printf(“You are %d years old”, age);
 return (0);
 }
+//just commenting
 
